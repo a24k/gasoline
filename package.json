@@ -1,7 +1,7 @@
 {
-  "name": "vite-template-solid",
-  "version": "0.0.0",
-  "description": "",
+  "name": "gasoline",
+  "version": "0.1.0",
+  "description": "a SPA example based on SolidJS and Google Apps Script.",
   "scripts": {
     "start": "vite",
     "dev": "vite",
