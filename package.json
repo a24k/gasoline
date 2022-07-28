@@ -1,6 +1,6 @@
 {
   "name": "gasoline",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "a SPA example based on SolidJS and Google Apps Script.",
   "scripts": {
     "start": "vite",
