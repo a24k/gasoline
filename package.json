@@ -11,6 +11,7 @@
   "license": "MIT",
   "devDependencies": {
     "@google/clasp": "^2.4.1",
+    "@types/google-apps-script": "^1.0.55",
     "autoprefixer": "^10.4.7",
     "postcss": "^8.4.14",
     "tailwindcss": "^3.1.6",
@@ -21,7 +22,7 @@
     "vite-plugin-solid": "^2.3.0"
   },
   "dependencies": {
-    "@types/google-apps-script": "^1.0.53",
+    "gas-client": "^1.0.0",
     "solid-js": "^1.4.7"
   }
 }
